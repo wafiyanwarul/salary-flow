@@ -1,0 +1,79 @@
+[
+    {
+        "id": 2,
+        "year": 2026,
+        "month": 4,
+        "category": "Pengeluaran Final",
+        "title": "Pengeluaran Final April",
+        "amount": 4200000,
+        "notes": null,
+        "created_at": "2026-09-30 16:01:25",
+        "updated_at": "2026-09-30 16:01:25"
+    },
+    {
+        "id": 3,
+        "year": 2026,
+        "month": 5,
+        "category": "Pengeluaran Final",
+        "title": "Pengeluaran Final Mei",
+        "amount": 4500000,
+        "notes": null,
+        "created_at": "2026-09-30 16:22:49",
+        "updated_at": "2026-09-30 16:22:49"
+    },
+    {
+        "id": 4,
+        "year": 2026,
+        "month": 6,
+        "category": "Pengeluaran Final",
+        "title": "Pengeluaran Final Juni",
+        "amount": 5100000,
+        "notes": null,
+        "created_at": "2026-09-30 16:23:41",
+        "updated_at": "2026-09-30 16:23:41"
+    },
+    {
+        "id": 5,
+        "year": 2026,
+        "month": 7,
+        "category": "Pengeluaran Final",
+        "title": "Pengeluaran Final Juli",
+        "amount": 6100000,
+        "notes": null,
+        "created_at": "2026-09-30 16:25:18",
+        "updated_at": "2026-09-30 16:26:49"
+    },
+    {
+        "id": 6,
+        "year": 2026,
+        "month": 8,
+        "category": "Pengeluaran Final",
+        "title": "Pengeluaran Final Agustus",
+        "amount": 4700000,
+        "notes": null,
+        "created_at": "2026-09-30 16:26:17",
+        "updated_at": "2026-09-30 16:27:04"
+    },
+    {
+        "id": 7,
+        "year": 2026,
+        "month": 9,
+        "category": "Pengeluaran Final",
+        "title": "Temporary Expenses September",
+        "amount": 2700000,
+        "notes": null,
+        "created_at": "2026-09-30 16:27:37",
+        "updated_at": "2026-09-30 16:27:37"
+    },
+    {
+        "id": 8,
+        "year": 2026,
+        "month": 5,
+        "category": "Lainnya",
+        "title": "Langganan Duolingo 1 Tahun",
+        "amount": 480000,
+        "notes": null,
+        "created_at": "2026-09-30 17:34:55",
+        "updated_at": "2026-09-30 17:34:55"
+    }
+]

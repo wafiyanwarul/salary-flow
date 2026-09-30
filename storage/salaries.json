@@ -1,0 +1,111 @@
+[
+    {
+        "id": 1,
+        "year": 2026,
+        "month": 4,
+        "amount": 2340000,
+        "notes": "Prorate Deduction (2.860.000) - Hari Kerja hanya 15 hari",
+        "created_at": "2026-09-30 14:13:53",
+        "updated_at": "2026-09-30 14:13:53"
+    },
+    {
+        "id": 2,
+        "year": 2026,
+        "month": 5,
+        "amount": 5200000,
+        "notes": "Gaji Mei (Full Time)",
+        "created_at": "2026-09-30 14:14:25",
+        "updated_at": "2026-09-30 14:14:25"
+    },
+    {
+        "id": 3,
+        "year": 2026,
+        "month": 6,
+        "amount": 5509000,
+        "notes": "Gaji Juni",
+        "created_at": "2026-09-30 14:14:49",
+        "updated_at": "2026-09-30 14:14:49"
+    },
+    {
+        "id": 4,
+        "year": 2026,
+        "month": 7,
+        "amount": 6517642,
+        "notes": "Gaji Juli",
+        "created_at": "2026-09-30 14:16:45",
+        "updated_at": "2026-09-30 14:16:45"
+    },
+    {
+        "id": 5,
+        "year": 2026,
+        "month": 8,
+        "amount": 6083793,
+        "notes": "Gaji Agustus",
+        "created_at": "2026-09-30 14:17:23",
+        "updated_at": "2026-09-30 14:17:23"
+    },
+    {
+        "id": 6,
+        "year": 2026,
+        "month": 9,
+        "amount": 5804362,
+        "notes": "Gaji September",
+        "created_at": "2026-09-30 14:17:56",
+        "updated_at": "2026-09-30 14:17:56"
+    },
+    {
+        "id": 8,
+        "year": 2026,
+        "month": 4,
+        "title": "Uang Bulanan April",
+        "category": "Uang Bulanan",
+        "amount": 4000000,
+        "notes": null,
+        "created_at": "2026-09-30 16:00:58",
+        "updated_at": "2026-09-30 16:00:58"
+    },
+    {
+        "id": 9,
+        "year": 2026,
+        "month": 5,
+        "title": "Uang Bulanan Mei",
+        "category": "Uang Bulanan",
+        "amount": 3500000,
+        "notes": null,
+        "created_at": "2026-09-30 16:22:32",
+        "updated_at": "2026-09-30 16:22:32"
+    },
+    {
+        "id": 10,
+        "year": 2026,
+        "month": 6,
+        "title": "Uang Bulanan Juni",
+        "category": "Uang Bulanan",
+        "amount": 3600000,
+        "notes": null,
+        "created_at": "2026-09-30 16:23:19",
+        "updated_at": "2026-09-30 16:23:19"
+    },
+    {
+        "id": 11,
+        "year": 2026,
+        "month": 7,
+        "title": "Uang Bulanan Juli",
+        "category": "Gaji",
+        "amount": 3600000,
+        "notes": null,
+        "created_at": "2026-09-30 16:24:52",
+        "updated_at": "2026-09-30 16:24:52"
+    },
+    {
+        "id": 12,
+        "year": 2026,
+        "month": 8,
+        "title": "Uang Bulanan Agustus",
+        "category": "Uang Bulanan",
+        "amount": 3500000,
+        "notes": null,
+        "created_at": "2026-09-30 16:25:53",
+        "updated_at": "2026-09-30 16:25:53"
+    }
+]
